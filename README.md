@@ -84,8 +84,7 @@ the user can click the home button at the bottom of the page to return to the to
 
 ## Screenshots
 
-placeholder location for screenshots to be added
-
+Click the following Link to see the first [screenshot](https://github.com/AbbyIT/Foodify/blob/main/assets/images/project%20screenshot.jpg)
 ## Credits
 
 Application Authors:
