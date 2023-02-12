@@ -82,9 +82,13 @@ once the user sees the recipe cards they may click on the calorie button to show
 
 the user can click the home button at the bottom of the page to return to the top if they wish.
 
-## Screenshots
+## Screenshots (see links below for screenshots)
 
-Click the following Link to see the first [screenshot](https://github.com/AbbyIT/Foodify/blob/main/assets/images/project%20screenshot.jpg)
+* Click the following Link to see the first [screenshot](https://github.com/AbbyIT/Foodify/blob/main/assets/images/project%20screenshot.jpg)
+* Click here for the next [screenshot](https://github.com/AbbyIT/Foodify/blob/main/assets/images/project%20screenshot%203.jpg)
+
+
+
 ## Credits
 
 Application Authors:
