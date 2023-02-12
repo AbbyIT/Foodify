@@ -81,7 +81,7 @@ the user may carry out multiple searches and their searches are stored under the
 once the user sees the recipe cards they may click on the calorie button to show a modal that displays the calorie content of the dish allowing the user to make a informed decision over the healthiness of the dish.
 
 the user can click the home button at the bottom of the page to return to the top if they wish.
-```
+
 ## Screenshots
 
 placeholder location for screenshots to be added
